@@ -101,3 +101,6 @@ console.log(is_palindrome("1001"));
 console.log(is_palindrome("Tauhida"));
 console.log(is_palindrome("allow"));
 console.log(is_palindrome("lol"));
+
+
+
